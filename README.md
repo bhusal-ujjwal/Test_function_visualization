@@ -1,4 +1,4 @@
-# Description
+# Test Function Visualization
 By using the C++ programming language and CUDA technology, implement the application according to the following specifications:
 
 ## Build the first kernel.
